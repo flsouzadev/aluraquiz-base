@@ -5,24 +5,122 @@
   "questions": [
     {
       "image": "https://media.giphy.com/media/xUOxf3yDKCuwpOlT3i/giphy.gif",
-      "title": "Como fazer um seletor por id via CSS?",
-      "description": "Essa é pra aquecer",
-      "answer": 2,
+      "title": "Quem é o personagem Azul?",
+      "description": "Personagens",
+      "answer": 0,
       "alternatives": [
-        ".elemento",
-        "*elemento",
-        "#elemento",
-        "%elemento"
+        "Zuma",
+        "Rubble",
+        "Marchal",
+        "Skye"
       ]
     },
     {
       "image": "https://media.giphy.com/media/13FrpeVH09Zrb2/giphy.gif",
-      "title": "Como fazer um background gradiente com css?",
-      "description": "Faz tempo em haha",
+      "title": "Quem é o personagem Laranja?",
+      "description": "Personagens",
+      "answer": 1,
+      "alternatives": [
+        "Zuma",
+        "Rubble",
+        "Marchal",
+        "Skye"
+      ]
+    },
+    {
+      "image": "https://media.giphy.com/media/xUOxf3yDKCuwpOlT3i/giphy.gif",
+      "title": "Quem é o personagem Amarelo?",
+      "description": "Personagens",
+      "answer": 2,
+      "alternatives": [
+        "Zuma",
+        "Rubble",
+        "Marchal",
+        "Skye"
+      ]
+    },
+    {
+      "image": "https://media.giphy.com/media/xUOxf3yDKCuwpOlT3i/giphy.gif",
+      "title": "Quem é o personagem Vermelho?",
+      "description": "Personagens",
+      "answer": 3,
+      "alternatives": [
+        "Zuma",
+        "Rubble",
+        "Marchal",
+        "Skye"
+      ]
+    },
+    {
+      "image": "https://media.giphy.com/media/xUOxf3yDKCuwpOlT3i/giphy.gif",
+      "title": "Quem é o personagem Azul?",
+      "description": "Personagens",
       "answer": 0,
       "alternatives": [
-         "background: linear-gradient(#e66465, #9198e5);",
-         "background: gradient(#e66465, #9198e5);"
+        "Zuma",
+        "Rubble",
+        "Marchal",
+        "Skye"
+      ]
+    },
+    {
+      "image": "https://media.giphy.com/media/xUOxf3yDKCuwpOlT3i/giphy.gif",
+      "title": "Quem é o personagem Azul?",
+      "description": "Personagens",
+      "answer": 0,
+      "alternatives": [
+        "Zuma",
+        "Rubble",
+        "Marchal",
+        "Skye"
+      ]
+    },
+    {
+      "image": "https://media.giphy.com/media/xUOxf3yDKCuwpOlT3i/giphy.gif",
+      "title": "Quem é o personagem Azul?",
+      "description": "Personagens",
+      "answer": 0,
+      "alternatives": [
+        "Zuma",
+        "Rubble",
+        "Marchal",
+        "Skye"
+      ]
+    },
+    {
+      "image": "https://media.giphy.com/media/xUOxf3yDKCuwpOlT3i/giphy.gif",
+      "title": "Quem é o personagem Azul?",
+      "description": "Personagens",
+      "answer": 0,
+      "alternatives": [
+        "Zuma",
+        "Rubble",
+        "Marchal",
+        "Skye"
+      ]
+    },
+    {
+      "image": "https://media.giphy.com/media/xUOxf3yDKCuwpOlT3i/giphy.gif",
+      "title": "Quem é o personagem Azul?",
+      "description": "Personagens",
+      "answer": 0,
+      "alternatives": [
+        "Zuma",
+        "Rubble",
+        "Marchal",
+        "Skye"
+      ]
+    },
+    {
+      "image": "https://media.giphy.com/media/xUOxf3yDKCuwpOlT3i/giphy.gif",
+      "title": "Quem é o personagem Azul?",
+      "description": "Personagens",
+      "answer": 0,
+      "alternatives": [
+        "Zuma",
+        "Rubble",
+        "Marchal",
+        "Skye"
       ]
     }
   ],
